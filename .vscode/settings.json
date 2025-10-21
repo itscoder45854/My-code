@@ -1,0 +1,5 @@
+{
+    "python.analysis.autoImportCompletions": false,
+    "editor.unusualLineTerminators": "auto",
+    "editor.overtypeCursorStyle": "line"
+}
